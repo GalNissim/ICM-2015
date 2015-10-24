@@ -1,0 +1,8 @@
+function transparency() {
+  //blendMode(mode[slider.value()]);
+  noTint();
+  image(sphinx);
+  tint(255,200);  
+  image(skull);
+
+}
